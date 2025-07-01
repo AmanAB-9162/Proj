@@ -97,3 +97,7 @@ The frontend will run on `http://localhost:3000` by default.
 ---
 
 ## License
+
+## Some picture of project UI 
+![Screenshot 2025-07-01 232010](https://github.com/user-attachments/assets/7924c7c3-9e34-4c08-aa26-adeda08b62dc)
+![Screenshot 2025-07-01 231614](https://github.com/user-attachments/assets/09069c37-d0a9-4526-847c-c633375f6d24)
